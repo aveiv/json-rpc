@@ -1,0 +1,18 @@
+{
+  "name": "aveiv/json-rpc",
+  "description": "Library for building JSON-RPC 2.0 server",
+  "type": "library",
+  "license": "MIT",
+  "require-dev": {
+    "jms/serializer": "~1.0",
+    "phpunit/phpunit": "~4.7"
+  },
+  "suggest": {
+    "jms/serializer": "~1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aveiv\\JsonRpc\\": "./src"
+    }
+  }
+}
