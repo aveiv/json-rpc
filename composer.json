@@ -3,6 +3,9 @@
   "description": "Library for building JSON-RPC 2.0 server",
   "type": "library",
   "license": "MIT",
+  "require": {
+    "php": ">=5.6.0"
+  },
   "require-dev": {
     "jms/serializer": "~1.0",
     "phpunit/phpunit": "~4.7"
