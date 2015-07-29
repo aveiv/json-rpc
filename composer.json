@@ -2,7 +2,17 @@
   "name": "aveiv/json-rpc",
   "description": "Library for building JSON-RPC 2.0 server",
   "type": "library",
+  "keywords": [
+    "json-rpc"
+  ],
+  "homepage": "https://github.com/aveiv/json-rpc",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandr Veliko-Ivanenko",
+      "email": "aveiv92@gmail.com"
+    }
+  ],
   "require": {
     "php": ">=5.6.0"
   },
